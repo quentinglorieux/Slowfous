@@ -1,0 +1,28 @@
+<rss version="2.0">
+    <channel>
+        <title>SlowsFous de Larchant on Site Title</title>
+        <link>http://localhost:1313/fr/</link>
+        <description>Recent content in Site Title</description>
+
+         
+            
+                 
+                <item>
+                    <title>Blog</title>
+                    <link>http://localhost:1313/fr/blog/</link>
+                    <pubDate>Tue, 01 Aug 2023 00:00:00 +0200</pubDate>
+                    <description>Welcome to our blog.&#xA;</description>
+                </item>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+        
+    </channel>
+</rss>
