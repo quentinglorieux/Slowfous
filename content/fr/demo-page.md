@@ -1,7 +1,7 @@
 ---
-title: Demo Elements Page
-description: A demo page for the various markup elements in the Dot Org theme.
-images: ["https://via.placeholder.com/250x200/d9d9d9/000000"]
+title: Qui sommes-nous ?
+description: Tout savoir sur les SlowFous de Larchant
+images: ["https://placehold.co/250x200"]
 ---
 
 

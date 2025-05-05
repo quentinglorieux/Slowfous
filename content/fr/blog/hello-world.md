@@ -1,8 +1,8 @@
 ---
-title: "Hello World"
+title: "Fete de la gastronomie"
 description: ""
-date: 2023-08-01
-author: caniszczyk
+date: 2024-01-01
+author: quenting
 ---
 
 Welcome to our first blog post. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. 

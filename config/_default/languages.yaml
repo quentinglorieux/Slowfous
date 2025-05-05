@@ -14,49 +14,52 @@ fr:
     ### calls to action ###
     main_cta:
       text: "Nous rejoindre"
-      link: "/example-page/"
+      link: "/example/"
     footer_cta:
-      text: "Join us"
-      link: "/example-page/"
+      text: "Nous rejoindre"
+      link: "/example/"
     # github_edit: "Edit this page on GitHub"
   ### example menu showing children ###
   menu:
     main:
     - identifier: "about"
       name: "Infos"
-      url: "/example-page/"
+      url: "/example/"
       weight: 1
-    - identifier: "child-1"
-      name: "Example Child Page"
-      url: "/example-page/"
+    - identifier: "qsn"
+      name: "Qui sommes-nous"
+      url: "/qui-sommes-nous/"
       weight: 1
-      post: "Nulla consequat massa quis enim. Donec pede justo."
+      post: "Découvrez l'histoire des SlowFous."
       parent: "about"
-    - identifier: "child-2"
-      name: "Example Child Page"
-      url: "/example-page/"
+    - identifier: "votre-avis"
+      name: "Votre avis compte"
+      url: "/votre-avis-compte/"
       weight: 2
-      post: "Aenean commodo ligula get dolor. Aenean massa."
+      post: "On discute ?"
       parent: "about"
-    - identifier: "child-3"
-      name: "Example External page"
-      url: "https://cncf.io?ref=dot-org"
+    - identifier: "visiteur"
+      name: "Vous êtes de passage ?"
+      url: "/visiteurs/"
       weight: 3
-      post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
+      post: "Tout savoir sur Larchant"
       parent: "about"
-    - identifier: "demo-page"
-      name: "Activités"
-      url: "/demo-page/"
+    - identifier: "blog"
+      name: "Actus"
+      url: "/blog/"
       weight: 2
+    - identifier: "demo-page"
+      name: "Projets"
+      url: "/example/"
+      weight: 3
     - identifier: "faq"
       name: "Questions"
       url: "/faq/"
-      weight: 3
-    - identifier: "blog"
-      name: "News"
-      url: "/blog/"
       weight: 4
+
     - identifier: "example"
       name: "Agenda"
       url: "https://alarchant.fr"
       weight: 5
+      params:
+        target: "_blank"

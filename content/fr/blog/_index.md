@@ -1,6 +1,5 @@
 ---
-title: "Blog"
+title: "Actus"
 description: ""
 ---
 
-Welcome to our blog.
