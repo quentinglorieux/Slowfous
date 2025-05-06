@@ -1,7 +1,7 @@
 ---
 title: "Fête de la gastronomie"
 description: "Venez découvrir la gastronomie locale (ou non) avec ses produits du terroir"
-date: 2024-08-08
+date: 2024-08-10
 author: quenting
 ---
 
