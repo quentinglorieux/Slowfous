@@ -50,7 +50,7 @@ fr:
       weight: 2
     - identifier: "demo-page"
       name: "Projets"
-      url: "/example/"
+      url: "/projets/"
       weight: 3
     - identifier: "faq"
       name: "Questions"
