@@ -1,0 +1,25 @@
+{{ $intro := site.Data.home.intro }}
+
+<div class="columns columns-2">
+  <div class="column">
+    <h1>{{ $intro.title }}</h1>
+    <p class="intro">
+      {{ $intro.text }}
+    </p>
+  </div>
+  <div class="column">
+    <div class="spacer-50" aria-hidden="true"></div>
+    <p><img src="{{ $intro.image }}" loading="eager" alt="{{ $intro.imageAlt }}"></p>
+  </div>
+</div>
+
+<style>
+  .spacer-50 {
+    height: 50px;
+  }
+  @media (max-width: 1000px) {
+    .spacer-50 {
+      height: calc(50px / 2);
+    }
+  }
+</style>

@@ -2,7 +2,7 @@
 title: SlowsFous de Larchant
 description: SlowsFous de Larchant
 showHeader: false
-layout: single
+layout: home
 ---
 
 {{< columns count=2 >}}
@@ -62,13 +62,11 @@ Une mobilisation citoyenne pour une psite cyclable Larchant Nemours
 {{< /columns >}}
 {{< spacer 20 >}}
 
-<!-- ## Embed videos without comprimising page speed
 
-{{< youtube_enhanced id="b3ta7fOo6Mo" >}} -->
 
 ## Nos Actions et nos Projets
 
-<!-- {{< spacer 20 >}} -->
+
 
 {{< cards count=3 >}}
 {{< card >}}

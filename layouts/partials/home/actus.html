@@ -1,0 +1,19 @@
+    <h2>Actualités</h2>
+    <div class="columns columns-3">
+      {{ range first 3 (sort (where .Site.RegularPages "Section" "blog") "Params.date" "desc") }}
+      <div class="column">
+        {{ with .Params.image }}
+          <p><img src="{{ . }}" alt="{{ .Title }}" loading="lazy"></p>
+        {{ else }}
+          <p><img src="/img/placeholder.svg" alt="Placeholder" loading="lazy"></p>
+        {{ end }}
+        <h3>{{ .Title }}</h3>
+        {{ with .Params.description }}<p>{{ . }}</p>{{ end }}
+        {{ with .Params.date }}
+  {{ $date := time . }}
+  <h4 id="{{ $date.Format "02-01-2006" }}">{{ $date.Format "02 janvier 2006" }}</h4>
+{{ end }}
+      </div>
+      {{ end }}
+    </div>
+    <div class="spacer-20" aria-hidden="true"></div>

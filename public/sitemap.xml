@@ -28,15 +28,27 @@
     <loc>http://localhost:1313/blog/old-post-5/</loc>
     <lastmod>2020-09-14T00:00:00+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/projets/recontres/</loc>
+  </url><url>
+    <loc>http://localhost:1313/equipe/anne-marie/</loc>
+  </url><url>
+    <loc>http://localhost:1313/equipe/carlo/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/faq/</loc>
+  </url><url>
+    <loc>http://localhost:1313/equipe/</loc>
   </url><url>
     <loc>http://localhost:1313/example/</loc>
   </url><url>
     <loc>http://localhost:1313/example-page/</loc>
   </url><url>
+    <loc>http://localhost:1313/projets/lvln/</loc>
+  </url><url>
     <loc>http://localhost:1313/faq/long-faq/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projets/</loc>
   </url><url>
     <loc>http://localhost:1313/demo-page/</loc>
   </url><url>

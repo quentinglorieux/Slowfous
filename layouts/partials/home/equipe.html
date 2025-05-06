@@ -1,0 +1,14 @@
+<h2>L’équipe</h2>
+<div class="columns columns-4">
+  {{ range where .Site.RegularPages "Section" "equipe" }}
+  <div class="column">
+    {{ with .Params.image }}
+      <p><img src="{{ . }}" alt="{{ $.Title }}" loading="lazy"></p>
+    {{ else }}
+      <p><img src="/img/placeholder.svg" alt="Placeholder" loading="lazy"></p>
+    {{ end }}
+    <h3>{{ .Title }}</h3>
+    <h6> {{ with .Params.role }}{{ . }}{{ end }}</h6>
+  </div>
+  {{ end }}
+</div>

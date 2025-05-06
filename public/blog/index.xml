@@ -8,17 +8,26 @@
             
                  
                 <item>
-                    <title>Fete de la gastronomie</title>
-                    <link>http://localhost:1313/blog/hello-world/</link>
-                    <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
-                    <description>Welcome to our first blog post. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa.&#xA;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;</description>
+                    <title>Fête de la gastronomie</title>
+                    <link>http://localhost:1313/blog/fete_de_la_gastronomie/</link>
+                    <pubDate>Thu, 08 Aug 2024 00:00:00 +0200</pubDate>
+                    <description>Lorem ipsum dolor sit amet aenean quisque in mauris curabitur fringilla cursus leo. Dolore nulla fusce nullam nec dictumst sapien est nunc. Duis lectus posuere rhoncus habitasse nullam euismod consectetur vivamus cras feugiat morbi dolore venenatis. Et a maecenas at curabitur feugiat facilisis senectus interdum suspendisse luctus porttitor. Incididunt vulputate volutpat morbi lobortis sollicitudin vitae proin non orci malesuada massa aliquet vulputate id.Lorem ipsum dolor sit amet aenean quisque in mauris curabitur fringilla cursus leo. Dolore nulla fusce nullam nec dictumst sapien est nunc. Duis lectus posuere rhoncus habitasse nullam euismod consectetur vivamus cras feugiat morbi dolore venenatis. Et a maecenas at curabitur feugiat facilisis senectus interdum suspendisse luctus porttitor. Incididunt vulputate volutpat morbi lobortis sollicitudin vitae proin non orci malesuada massa aliquet vulputate id.&#xA;</description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>Dégustation d&#39;huile d&#39;olive</title>
+                    <link>http://localhost:1313/blog/huile/</link>
+                    <pubDate>Mon, 10 Oct 2022 00:00:00 +0200</pubDate>
+                    <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;</description>
                 </item>
                 
             
                  
                 <item>
                     <title>Couscous géant</title>
-                    <link>http://localhost:1313/blog/old-post/</link>
+                    <link>http://localhost:1313/blog/couscous/</link>
                     <pubDate>Wed, 14 Apr 2021 00:00:00 +0200</pubDate>
                     <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;</description>
                 </item>
@@ -26,17 +35,8 @@
             
                  
                 <item>
-                    <title>Dégustation d&#39;huile d&#39;olive</title>
-                    <link>http://localhost:1313/blog/old-post-2/</link>
-                    <pubDate>Sun, 14 Mar 2021 00:00:00 +0100</pubDate>
-                    <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;</description>
-                </item>
-                
-            
-                 
-                <item>
                     <title>Ballade à vélo</title>
-                    <link>http://localhost:1313/blog/old-post-3/</link>
+                    <link>http://localhost:1313/blog/ballade/</link>
                     <pubDate>Sun, 14 Feb 2021 00:00:00 +0100</pubDate>
                     <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;</description>
                 </item>
@@ -45,7 +45,7 @@
                  
                 <item>
                     <title>Visite de la Vallée de l&#39;Ubaye</title>
-                    <link>http://localhost:1313/blog/old-post-4/</link>
+                    <link>http://localhost:1313/blog/ubaye/</link>
                     <pubDate>Thu, 14 Jan 2021 00:00:00 +0100</pubDate>
                     <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;</description>
                 </item>
@@ -54,7 +54,7 @@
                  
                 <item>
                     <title>Voyage en Italie</title>
-                    <link>http://localhost:1313/blog/old-post-5/</link>
+                    <link>http://localhost:1313/blog/voyage_en_italie/</link>
                     <pubDate>Mon, 14 Sep 2020 00:00:00 +0200</pubDate>
                     <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;</description>
                 </item>

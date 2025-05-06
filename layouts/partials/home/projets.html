@@ -1,0 +1,16 @@
+    <h2>Nos Actions et nos Projets</h2>
+    <div class="cards columns-3">
+      {{ range where .Site.RegularPages "Section" "projets" }}
+      <div class="card">
+        <h3>{{ .Title }}</h3>
+        {{ with .Params.description }}<p>{{ . }}</p>{{ end }}
+        <div class="spacer-5" aria-hidden="true"></div>
+        <p>
+          <a href="{{ .RelPermalink }}" class="button">
+            {{ .Params.buttonText | default "En savoir plus" }}
+          </a>
+        </p>
+      </div>
+      {{ end }}
+    </div>
+    <div class="spacer-20" aria-hidden="true"></div>
