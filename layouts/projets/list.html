@@ -2,13 +2,18 @@
   {{ .Content }}
   {{ $paginator := .Paginate .Pages }}
   <div class="columns columns-2">
-
-  {{- range $paginator.Pages }}
+    {{/*  {{ range first 3 (sort (where .Site.RegularPages "Section" "blog")
+    "Params.date" "desc") }}  */}}
+  {{- range (sort $paginator.Pages "Params.order" "asc")  }}
 
       <article class="blog-item" style="align-self: start;">
         <h2 class="blog-item__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
         {{/*  {{- partial "blog/byline.html" . }}  */}}
+        {{ with .Params.Resume }}
+        <p class="blog-item__summary">{{ . }}</p>
+        {{else}}
         <p class="blog-item__summary">{{ .Summary | plainify }}</p>
+        {{ end}}
       </article>
   
   {{ end }}

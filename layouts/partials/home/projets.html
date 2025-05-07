@@ -1,6 +1,6 @@
     <h2>Nos Actions et nos Projets</h2>
     <div class="cards columns-3">
-      {{ range where .Site.RegularPages "Section" "projets" }}
+      {{ range (sort (where .Site.RegularPages "Section" "projets") "Params.order" "asc")  }}
       <div class="card">
         <h3>{{ .Title }}</h3>
         {{ with .Params.description }}<p>{{ . }}</p>{{ end }}

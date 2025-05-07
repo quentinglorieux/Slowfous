@@ -4,7 +4,8 @@ description: "Des rencontres autour de la gastronomie, de la culture, de l’art
 image: "/img/renconres.svg"
 buttonText: "Participer"
 buttonLink: "/renconres"
-order: 2
+resume: "Des rencontres autour d'un repas ou autre"
+order: 10
 ---
 
 ## En 2025

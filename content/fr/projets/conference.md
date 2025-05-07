@@ -4,7 +4,8 @@ description: "On discute, on échange, on partage !"
 image: "/img/conf.svg"
 buttonText: "Tout savoir"
 buttonLink: "/conference"
-order : 4
+order : 40
+resume : "Un cycle de conférence sur des sujets variés."
 ---
 
 ## En 2025

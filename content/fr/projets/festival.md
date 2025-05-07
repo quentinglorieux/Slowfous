@@ -1,10 +1,11 @@
 ---
 title: "Festival du film de montagne"
 description: "Valoriser le patrimoine lyricantois"
+resume : "Des films, des débats et bien plus que ça."
 image: "/img/festival.svg"
 buttonText: "Un film ?"
 buttonLink: "/festival"
-order : 1
+order : 30
 ---
 
 

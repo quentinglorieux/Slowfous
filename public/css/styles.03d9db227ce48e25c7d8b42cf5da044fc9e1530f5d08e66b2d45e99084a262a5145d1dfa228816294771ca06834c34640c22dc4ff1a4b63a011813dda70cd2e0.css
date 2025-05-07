@@ -1325,8 +1325,8 @@ hr {
         margin-bottom: 40px; } }
 .blog-item {
   margin-bottom: 50px; }
-  .blog-item:first-of-type {
-    margin-top: 50px; }
+  /* .blog-item:first-of-type {
+    margin-top: 10px; } */
   @media (min-width: 1000px) {
     .blog-item {
       margin-bottom: 80px; } }

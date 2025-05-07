@@ -14,17 +14,16 @@ fr:
     ### calls to action ###
     main_cta:
       text: "Nous rejoindre"
-      link: "/example/"
+      link: "/nous-rejoindre/"
     footer_cta:
       text: "Nous rejoindre"
-      link: "/example/"
+      link: "/nous-rejoindre/"
     # github_edit: "Edit this page on GitHub"
   ### example menu showing children ###
   menu:
     main:
     - identifier: "about"
       name: "Infos"
-      url: "/example/"
       weight: 1
     - identifier: "qsn"
       name: "Qui sommes-nous"
@@ -43,6 +42,12 @@ fr:
       url: "/visiteurs/"
       weight: 3
       post: "Tout savoir sur Larchant"
+      parent: "about"
+    - identifier: "administratif"
+      name: "Documents"
+      url: "/documents/"
+      weight: 4
+      post: "Transparence sur tous nos documents"
       parent: "about"
     - identifier: "blog"
       name: "Actus"
