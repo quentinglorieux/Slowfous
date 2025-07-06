@@ -62,9 +62,9 @@ fr:
       url: "/faq/"
       weight: 4
 
-    - identifier: "example"
-      name: "Agenda"
-      url: "https://alarchant.fr"
-      weight: 5
-      params:
-        target: "_blank"
+    # - identifier: "example"
+    #   name: "Agenda"
+    #   url: "https://alarchant.fr"
+    #   weight: 5
+    #   params:
+    #     target: "_blank"
