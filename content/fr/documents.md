@@ -10,4 +10,3 @@ description: Tout savoir sur les SlowFous de Larchant
 ## Autres ressources
 
 - [Statuts](statuts.pdf)
-- [Test](test.pdf)
