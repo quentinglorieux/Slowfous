@@ -66,3 +66,15 @@ collections:
       - { label: "Order", name: "order", widget: "number", required: false }
       - { label: "Résumé", name: "resume", widget: "text", required: false }
       - { label: "Body", name: "body", widget: "markdown", required: false }
+        
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "content/fr/documents.md"
+        label: "Documents"
+        name: "documents_page"
+        media_folder: /static/documents # make sure to append a slash
+        public_folder: /public/documents
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
