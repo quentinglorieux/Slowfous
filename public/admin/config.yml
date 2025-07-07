@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: quentinglorieux/Slowfous # Path to your GitHub repository
   commit_messages:
     create: Create - {{collection}} “{{slug}}”
     update: Update - {{collection}} “{{slug}}”
