@@ -2,6 +2,7 @@
 <div class="columns columns-3">
   {{ range first 3 (sort (where .Site.RegularPages "Section" "blog")
   "Params.date" "desc") }}
+  <a href="{{ .RelPermalink }}" class="column-link" style="display: block; color: inherit; text-decoration: none;">
   <div class="column">
     {{ with .Params.image }}
     <p><img src="{{ . }}"  alt="Placeholder" loading="lazy" /></p>
@@ -22,6 +23,10 @@
     <h4>{{ $day }} {{ $monthFr }} {{ $year }}</h4>
   {{ end }}
   </div>
+  </a>
   {{ end }}
+</div>
+<div style="text-align: right; margin-top: 0.1em;">
+  <a href="/blog/" class="button">Voir toutes les actus</a>
 </div>
 <div class="spacer-20" aria-hidden="true"></div>

@@ -8,3 +8,11 @@
   .spacer-20 { height: 10px; }
   .spacer-50 { height: 25px; }
 }
+
+/* Make any element take up half the width of its container */
+.half-column {
+  width: 50%;
+  float: left;            /* or right, if you prefer */
+  margin: 0 1rem 1rem 0;   /* space to the right and below */
+  box-sizing: border-box;  /* include padding/border in the width */
+}

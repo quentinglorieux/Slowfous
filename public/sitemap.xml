@@ -5,12 +5,15 @@
     <loc>http://localhost:1313/faq/what-is-hugo/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-08-10T00:00:00+02:00</lastmod>
+    <lastmod>2025-07-06T22:45:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/fete_de_la_gastronomie/</loc>
-    <lastmod>2024-08-10T00:00:00+02:00</lastmod>
+    <loc>http://localhost:1313/blog/fete-du-28-juin/</loc>
+    <lastmod>2025-07-06T22:45:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-07-06T22:45:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/fete_de_la_gastronomie/</loc>
     <lastmod>2024-08-10T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/huile/</loc>
