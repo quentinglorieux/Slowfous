@@ -76,5 +76,4 @@ collections:
         media_folder: /static/documents # make sure to append a slash
         public_folder: /public/documents
         fields:
-          - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
