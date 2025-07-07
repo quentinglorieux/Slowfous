@@ -1,24 +1,13 @@
-
-.spacer-5 { height: 5px; }
-.spacer-20 { height: 20px; }
-.spacer-50 { height: 50px; }
-
-@media (max-width: 1000px) {
-  .spacer-5 { height: 2.5px; }
-  .spacer-20 { height: 10px; }
-  .spacer-50 { height: 25px; }
-}
-
 /* Make any element take up half the width of its container */
 .half-column {
   width: 50%;
-  float: left;            /* or right, if you prefer */
+  /* float: left;            or right, if you prefer */
   margin: 0 1rem 1rem 0;   /* space to the right and below */
   box-sizing: border-box;  /* include padding/border in the width */
 }
 
 .half-column-right {
-  width: 50%;
+  width: 35%;
   float: right;
   margin: 0 0 1rem 1rem;   /* space on left and below */
   box-sizing: border-box;  /* include padding/border */
