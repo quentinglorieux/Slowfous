@@ -1,5 +1,5 @@
 ---
-title: Fête de la gastronomie
+title: Découverte du miel de Larchant
 description: Venez découvrir la gastronomie locale (ou non) avec ses produits du terroir
 date: 2024-08-10
 image: https://images.unsplash.com/photo-1526371233670-42d618efcec5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDgxOTJ8MHwxfHNlYXJjaHwyMnx8Z2FzdHJvbm9teXxmcnwwfHx8fDE3NDY2MjQyNzd8MA&ixlib=rb-4.1.0&q=80&w=1080
