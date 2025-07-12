@@ -1,11 +1,11 @@
 ---
-title: Festival du film de mer
-description: Valoriser le patrimoine lyricantois
+title: Réunion publique sur la piste cyclable
+description: XXXXXXXXXXXXXXX
 image: /img/festival.svg
 buttonText: Un film ?
 buttonLink: /festival
 order: 30
-resume: Des films, des débats et bien plus que ça.
+resume: XXXXXXXXXXXXXXX
 ---
 ## En 2024
 
