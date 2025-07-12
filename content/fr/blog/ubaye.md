@@ -1,5 +1,5 @@
 ---
-title: Visite de la Vallée de l'Ubaye
+title: La dictée
 description: Venez découvrir la Vallée de l'Ubaye avec nous !
 date: 2021-01-14
 author: quenting
