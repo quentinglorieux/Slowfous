@@ -1,10 +1,10 @@
 ---
-title: Compost collectif
-description: Un compost collectif pour le village.
+title: Benjamin Coriat Les biens communs
+description: XXXXXXXXXXXXXXXX
 image: /img/compost.svg
 buttonText: Ca vous dit ?
 buttonLink: /compost
 order: 60
-resume: Une première information sur l’éventualité d’un compost collectif ?
+resume: XXXXXXXXXXXXXXXXXX
 ---
 Proposition d’une intervention d’une spécialiste du sujet qui travaille au département et est membre d’Objectif Terre 77.
