@@ -1,8 +1,8 @@
 ---
 title: Larchant sous les tilleuls
-description: xxx
+description: Jeux, théâtre, danse et grand repas partagé avec toutes les associations lyricantoises. Une grand première et une belle réussite
 date: 2025-06-28T22:45:00
-image: https://images.unsplash.com/photo-1470225620780-dba8ba36b745?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDgxOTJ8MHwxfHNlYXJjaHwyMXx8cGFydHl8ZnJ8MHx8fHwxNzUxODk3NTU1fDA&ixlib=rb-4.1.0&q=80&w=1080
-author: AMB
+image: /public/images/WhatsApp Image 2025-06-23 à 10.04.04_42e595d7.jpg
+author: AMCBL
 ---
-Lorem ipsum dolor sit amet libero at odio maecenas. Ut mattis incididunt blandit tortor arcu congue incididunt facilisis interdum vivamus imperdiet senectus interdum. Urna quisque augue interdum nulla viverra vestibulum nullam malesuada euismod blandit. Tempor labore quam nullam ut velit sollicitudin do. Feugiat lectus ac semper lacus massa justo luctus euismod eu dolore leo.
+Nous les Slow fous de Larchant, nous avons proposé de grandes salades originales : la salade de concombres presque iranienne, la salade de courgettes au zeste de citron italienne, la salade de carottes orientale à l'orange, la salade de chou pointu aux algues d'Alice, de la crème au curry et à la coriandre et de l'houmous...et 140 bols sont partis ! Vous voulez les recettes, elles sont là
