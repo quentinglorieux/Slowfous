@@ -1,9 +1,8 @@
 ---
 title: La dictée
-description: xxxxxxxxxxxxxxx
+description: 'Une co production La Grange et les Slow fous : un texte pas si facile lu, relu, dicté et...corrigé. les lyricantois sont plutôt forts en orthographe !'
 date: 2025-04-04T11:11:00
-author: quenting
+image: /public/images/IMG_6672.JPEG
+author: AMCBL
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
+Un texte un peu arrangé tiré de L'écume des jours de Boris Vian. 2400 caractères qui n'ont pas fait peur. Quelques mots compliqués, quelques accords retors de participe passé. Nous étions une trentaine, prêts à recommencer l'hiver prochain.
