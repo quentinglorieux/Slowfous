@@ -5,4 +5,4 @@ date: 2025-01-11T11:11:00
 image: /public/images/77b89804-8f01-4de4-9dca-d14f8867f2b6.JPEG
 author: AMCBL
 ---
-XXXXXXXXXXXXXXXXXX
+Il y avait beaucoup à manger comme d'habitude (trop diront certains malicieusement) et le couscous était super. On a fait un blind test sur lequel beaucoup se sont déchainés, années, 60, 70, 80, 90, 2000... musiques de films, quelques champions !
