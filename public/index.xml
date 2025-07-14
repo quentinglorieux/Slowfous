@@ -10,69 +10,128 @@
             
                  
                 <item>
-                    <title>Fete du 28 juin</title>
+                    <title>Larchant sous les tilleuls</title>
                     <link>http://localhost:1313/blog/fete-du-28-juin/</link>
-                    <pubDate>Sun, 06 Jul 2025 22:45:00 +0200</pubDate>
-                    <description>Lorem ipsum dolor sit amet libero at odio maecenas. Ut mattis incididunt blandit tortor arcu congue incididunt facilisis interdum vivamus imperdiet senectus interdum. Urna quisque augue interdum nulla viverra vestibulum nullam malesuada euismod blandit. Tempor labore quam nullam ut velit sollicitudin do. Feugiat lectus ac semper lacus massa justo luctus euismod eu dolore leo.&#xA;</description>
+                    <pubDate>Sat, 28 Jun 2025 22:45:00 +0200</pubDate>
+                    <description>Nous les Slow fous de Larchant, nous avons proposé de grandes salades originales : la salade de concombres presque iranienne, la salade de courgettes au zeste de citron italienne, la salade de carottes orientale à l&amp;rsquo;orange, la salade de chou pointu aux algues d&amp;rsquo;Alice, de la crème au curry et à la coriandre et de l&amp;rsquo;houmous&amp;hellip;et 140 bols sont partis ! Vous voulez les recettes, elles sont là&#xA;</description>
                 </item>
                 
             
                  
                 <item>
-                    <title>Fête de la gastronomie</title>
+                    <title>Balade à vélo pour la piste cyclable</title>
+                    <link>http://localhost:1313/blog/ballade/</link>
+                    <pubDate>Sat, 21 Jun 2025 11:11:00 +0200</pubDate>
+                    <description>Il faisait très chaud mais l&amp;rsquo;enthousiasme était au top pour les petits et les grands. Initiation à la sécurité au départ, vélos, gilets et casques de rigueur, gourde d&amp;rsquo;eau fraîche&amp;hellip;7 km, c&amp;rsquo;est court mais sans piste cyclable, c&amp;rsquo;est dangereux&amp;hellip;Le group LVLN (Liaison Vélo Larchant Nemours), piloté par les Slow fous continue son action. Oui, nous allons finir par l&amp;rsquo;obtenir cette piste cyclable !&#xA;</description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>La dictée</title>
+                    <link>http://localhost:1313/blog/ubaye/</link>
+                    <pubDate>Fri, 04 Apr 2025 11:11:00 +0200</pubDate>
+                    <description>Un texte un peu arrangé tiré de L&amp;rsquo;écume des jours de Boris Vian. 2400 caractères qui n&amp;rsquo;ont pas fait peur. Quelques mots compliqués, quelques accords retors de participe passé. Nous étions une trentaine, prêts à recommencer l&amp;rsquo;hiver prochain.&#xA;</description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>Couscous géant pour le dîner des adhérents</title>
+                    <link>http://localhost:1313/blog/d%C3%AEner-des-adh%C3%A9rents/</link>
+                    <pubDate>Sat, 11 Jan 2025 11:11:00 +0100</pubDate>
+                    <description>Il y avait beaucoup à manger comme d&amp;rsquo;habitude (trop diront certains malicieusement) et le couscous était super. On a fait un blind test sur lequel beaucoup se sont déchainés, années, 60, 70, 80, 90, 2000&amp;hellip; musiques de films, quelques champions !&#xA;</description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>Dégustation d&#39;huile d&#39;olive des Pouilles</title>
+                    <link>http://localhost:1313/blog/huile/</link>
+                    <pubDate>Sat, 14 Dec 2024 11:11:00 +0100</pubDate>
+                    <description>On a commencé la dégustation d&amp;rsquo;huile d&amp;rsquo;olive en décembre 2021 avec 114 litres et cette année, nous en aurons distribué 290 litres. Et nous n&amp;rsquo;avons pas fait que distribuer, nous avions aussi plusieurs huiles à faire déguster (eh oui, c&amp;rsquo;est comme le vin), d&amp;rsquo;Italie, du Portugal, de Grèce et nous avons aussi proposé des produits fabriqués avec de l&amp;rsquo;huile d&amp;rsquo;olive et nos petites mains blanches : tapenade, bruscetta, pompe à huile&amp;hellip;&#xA;</description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>Atelier 2 tonnes</title>
+                    <link>http://localhost:1313/blog/atelier-2-tonnes/</link>
+                    <pubDate>Sat, 23 Nov 2024 11:11:00 +0100</pubDate>
+                    <description>xx&#xA;</description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>Des montagnes et des blocs</title>
+                    <link>http://localhost:1313/blog/des-montagnes-et-des-blocs/</link>
+                    <pubDate>Sat, 05 Oct 2024 11:11:00 +0200</pubDate>
+                    <description>XXXXXXX&#xA;</description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>Le vide grenier</title>
+                    <link>http://localhost:1313/blog/le-vide-grenier/</link>
+                    <pubDate>Sun, 22 Sep 2024 11:11:00 +0200</pubDate>
+                    <description>XXXXXXXXXXXXXXXXX&#xA;</description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>Le sol que l&#39;on piétine</title>
+                    <link>http://localhost:1313/blog/couscous/</link>
+                    <pubDate>Sat, 14 Sep 2024 11:11:00 +0200</pubDate>
+                    <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;</description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>Découverte du miel de Larchant</title>
                     <link>http://localhost:1313/blog/fete_de_la_gastronomie/</link>
-                    <pubDate>Sat, 10 Aug 2024 00:00:00 +0200</pubDate>
+                    <pubDate>Sat, 15 Jun 2024 02:00:00 +0200</pubDate>
                     <description>Lorem ipsum dolor sit amet aenean quisque in mauris curabitur fringilla cursus leo. Dolore nulla fusce nullam nec dictumst sapien est nunc. Duis lectus posuere rhoncus habitasse nullam euismod consectetur vivamus cras feugiat morbi dolore venenatis. Et a maecenas at curabitur feugiat facilisis senectus interdum suspendisse luctus porttitor. Incididunt vulputate volutpat morbi lobortis sollicitudin vitae proin non orci malesuada massa aliquet vulputate id.Lorem ipsum dolor sit amet aenean quisque in mauris curabitur fringilla cursus leo. Dolore nulla fusce nullam nec dictumst sapien est nunc. Duis lectus posuere rhoncus habitasse nullam euismod consectetur vivamus cras feugiat morbi dolore venenatis. Et a maecenas at curabitur feugiat facilisis senectus interdum suspendisse luctus porttitor. Incididunt vulputate volutpat morbi lobortis sollicitudin vitae proin non orci malesuada massa aliquet vulputate id.&#xA;</description>
                 </item>
                 
             
                  
                 <item>
-                    <title>Dégustation d&#39;huile d&#39;olive</title>
-                    <link>http://localhost:1313/blog/huile/</link>
-                    <pubDate>Mon, 10 Oct 2022 00:00:00 +0200</pubDate>
-                    <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;</description>
+                    <title>L&#39;écriture, une trace</title>
+                    <link>http://localhost:1313/blog/l-%C3%A9criture-une-trace/</link>
+                    <pubDate>Sat, 07 Oct 2023 11:11:00 +0200</pubDate>
+                    <description>XXXXXXXXXXXXXXX&#xA;</description>
                 </item>
                 
             
                  
                 <item>
-                    <title>Couscous géant</title>
-                    <link>http://localhost:1313/blog/couscous/</link>
-                    <pubDate>Wed, 14 Apr 2021 00:00:00 +0200</pubDate>
-                    <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;</description>
+                    <title>Un siècle dans leur tête</title>
+                    <link>http://localhost:1313/blog/un-si%C3%A8cle-dans-leur-t%C3%AAte/</link>
+                    <pubDate>Sat, 03 Jun 2023 11:11:00 +0200</pubDate>
+                    <description>XXXXXXXXXXXXXX&#xA;</description>
                 </item>
                 
             
                  
                 <item>
-                    <title>Ballade à vélo</title>
-                    <link>http://localhost:1313/blog/ballade/</link>
-                    <pubDate>Sun, 14 Feb 2021 00:00:00 +0100</pubDate>
-                    <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;</description>
+                    <title>Le minestrone</title>
+                    <link>http://localhost:1313/blog/le-minestrone/</link>
+                    <pubDate>Sat, 19 Nov 2022 11:11:00 +0100</pubDate>
+                    <description>XXXXXXXXXXXXXXX&#xA;</description>
                 </item>
                 
             
                  
                 <item>
-                    <title>Visite de la Vallée de l&#39;Ubaye</title>
-                    <link>http://localhost:1313/blog/ubaye/</link>
-                    <pubDate>Thu, 14 Jan 2021 00:00:00 +0100</pubDate>
-                    <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;</description>
-                </item>
-                
-            
-                 
-                <item>
-                    <title>Voyage en Italie</title>
+                    <title>La piste cyclable</title>
                     <link>http://localhost:1313/blog/voyage_en_italie/</link>
                     <pubDate>Mon, 14 Sep 2020 00:00:00 +0200</pubDate>
                     <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;</description>
                 </item>
-                
-            
-                
-            
                 
             
                 
