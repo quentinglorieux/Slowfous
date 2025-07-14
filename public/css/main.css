@@ -25,3 +25,72 @@
 .blog-item{
   margin-bottom: 10rem;  
 }
+.a-la-une-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.a-la-une-link {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+
+.a-la-une-card {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  background-color: #eeeeee;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: box-shadow 0.2s ease;
+}
+
+.a-la-une-card:hover {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.a-la-une-img-container {
+  flex: 0 0 130px;
+  height: 200px;
+  overflow: hidden;
+  background-color: #e0e0e0;
+}
+
+.a-la-une-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+
+.a-la-une-content {
+  flex: 1;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.a-la-une-content h3 {
+  margin: 0;
+  font-size: 1.5rem;
+  color: #222;
+  font-weight: 600;
+  font-variant: small-caps;
+}
+
+.a-la-une-content p {
+  margin: 0.5em 0 0;
+  color: #555;
+  font-size: 0.95rem;
+}
+
+.a-la-une-date {
+  margin-top: 0.3em;
+  color: #888;
+  font-size: 1.2rem;
+}

@@ -1,4 +1,4 @@
-<h2>Actualités</h2>
+<h2>Blog des évènements</h2>
 <div class="columns columns-3">
   {{ range first 3 (sort (where .Site.RegularPages "Section" "blog")
   "Params.date" "desc") }}

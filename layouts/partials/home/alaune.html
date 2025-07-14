@@ -1,0 +1,30 @@
+<h2>À la Une</h2>
+<div class="a-la-une-list">
+  {{ range first 2 (sort (where .Site.RegularPages "Section" "a_la_une") "Params.date" "desc") }}
+  <a href="{{ .RelPermalink }}" class="a-la-une-link">
+    <div class="a-la-une-card">
+      {{ with .Params.image }}
+      <div class="a-la-une-img-container">
+        <img src="{{ . }}" alt="Image à la une" class="a-la-une-img" loading="lazy" />
+      </div>
+      {{ else }}
+      <div class="a-la-une-img-container">
+        <img src="/img/placeholder.svg" alt="Placeholder" class="a-la-une-img" loading="lazy" />
+      </div>
+      {{ end }}
+      <div class="a-la-une-content">
+        <h3>{{ .Title }}</h3>
+        {{ with .Params.description }}
+        <p>{{ . }}</p>
+        {{ end }}
+        {{ with .Params.date }}
+        {{ $date := time . }}
+        {{ $monthsFr := dict "January" "janvier" "February" "février" "March" "mars" "April" "avril" "May" "mai" "June" "juin" "July" "juillet" "August" "août" "September" "septembre" "October" "octobre" "November" "novembre" "December" "décembre" }}
+        {{ $monthFr := index $monthsFr ($date.Format "January") }}
+        <p class="a-la-une-date">{{ $date.Format "02" }} {{ $monthFr }} {{ $date.Format "2006" }}</p>
+        {{ end }}
+      </div>
+    </div>
+  </a>
+  {{ end }}
+</div>

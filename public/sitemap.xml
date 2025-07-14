@@ -25,7 +25,13 @@
     <loc>http://localhost:1313/blog/huile/</loc>
     <lastmod>2024-12-14T11:11:00+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/a_la_une/</loc>
+    <lastmod>2024-11-23T11:11:00+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/atelier-2-tonnes/</loc>
+    <lastmod>2024-11-23T11:11:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/a_la_une/news1/</loc>
     <lastmod>2024-11-23T11:11:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/des-montagnes-et-des-blocs/</loc>
