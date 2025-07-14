@@ -50,7 +50,7 @@ fr:
       post: "Transparence sur tous nos documents"
       parent: "about"
     - identifier: "blog"
-      name: "Actus"
+      name: "Blog des évènements"
       url: "/blog/"
       weight: 2
     - identifier: "demo-page"
