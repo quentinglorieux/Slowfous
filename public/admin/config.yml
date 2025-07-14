@@ -70,10 +70,45 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
+      - file: "data/home.yaml"
+        label: "Home"
+        name: "home_page"
+        widget: "list"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Text", name: "text", widget: "markdown" }
       - file: "content/fr/documents.md"
         label: "Documents"
         name: "documents_page"
         media_folder: /static/documents # make sure to append a slash
         public_folder: /public/documents
         fields:
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "content/fr/qui-sommes-nous.md"
+        label: "Qui sommes-nous ?"
+        name: "qui_sommes_nous_page"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "markdown" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "content/fr/votre-avis-compte.md"
+        label: "Votre avis compte"
+        name: "votre_avis_compte_page"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "markdown" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "content/fr/visiteurs.md"
+        label: "Vous etes de passage ?"
+        name: "visiteurs_page"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "markdown" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "content/fr/nous-rejoindre.md"
+        label: "Nous rejoindre"
+        name: "nous_rejoindre_page"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "markdown" }
           - { label: "Body", name: "body", widget: "markdown" }
