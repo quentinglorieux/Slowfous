@@ -1,25 +1,111 @@
 {{ $intro := site.Data.home }}
 
-<div class="columns columns-2">
-  <div class="column">
-    <h1>{{ $intro.title }}</h1>
-    <p class="intro">
-      {{ $intro.text }}
-    </p>
+<section class="intro-section">
+  <div class="intro-container">
+    <div class="intro-text">
+      <h1>{{ $intro.title }}</h1>
+      <p>{{ $intro.text }}</p>
+    </div>
+
+    <div class="logo-wrapper">
+      <img src="{{ $intro.image }}" alt="Dragon" class="dragon" loading="eager">
+      <img src="{{ $intro.image2 }}" alt="Texte du logo" class="logo-text" loading="eager">
+    </div>
   </div>
-  <div class="column">
-    <div class="spacer-50" aria-hidden="true"></div>
-    <p><img src="{{ $intro.image }}" loading="eager" alt="{{ $intro.imageAlt }}"></p>
-  </div>
-</div>
+</section>
 
 <style>
-  .spacer-50 {
-    height: 50px;
+/* Layout */
+
+  
+.intro-section {
+  padding: 5rem 1rem 2rem 1rem;
+  min-width: 100%;
+}
+
+.intro-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+/* Text column */
+.intro-text {
+  flex: 1 1 45%;
+}
+
+.intro-text h1 {
+  font-size: 4.5rem;
+  margin-bottom: 1rem;
+   transition: transform 0.4s ease;
+}
+
+.intro-text h1:hover {
+  transform: translateY(-4px);
+ 
+}
+
+.intro-text p {
+  font-size: 1.45rem;
+  line-height: 1.5;
+  color: #222;
+}
+
+/* Logo images stacked */
+.logo-wrapper {
+  flex: 1 1 40%;
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.logo-wrapper img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: transform 0.4s ease;
+}
+
+/* Base layers */
+.logo-text {
+  z-index: 2;
+}
+
+.dragon {
+  z-index: 1;
+}
+
+/* Animation on hover */
+.logo-wrapper:hover .dragon {
+  transform: translateY(-15px);
+}
+
+/* Maintain aspect ratio */
+.logo-wrapper {
+  aspect-ratio: 1 / 1;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .intro-container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
   }
-  @media (max-width: 1000px) {
-    .spacer-50 {
-      height: calc(50px / 2);
-    }
+
+  .intro-text, .logo-wrapper {
+    flex: 1 1 100%;
   }
+
+  .intro-text h1 {
+    font-size: 2rem;
+  }
+}
 </style>

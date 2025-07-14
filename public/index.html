@@ -203,30 +203,115 @@
 
   
 
-<div class="columns columns-2">
-  <div class="column">
-    <h1>Bienvenue !</h1>
-    <p class="intro">
-      Une aventure de dégustation culinaire et de culture sous toutes ses formes. Des évènements, des projets attentifs à une nourriture saine, locale, « slow »… Des projets qui correspondent aux besoins, envies, sensibilités, préoccupations de chacun.  Participez avec nous à une vie de village joyeuse et solidaire.
-    </p>
+<section class="intro-section">
+  <div class="intro-container">
+    <div class="intro-text">
+      <h1>Bienvenue !</h1>
+      <p>Une aventure de dégustation culinaire et de culture sous toutes ses formes. Des évènements, des projets attentifs à une nourriture saine, locale, « slow »… Des projets qui correspondent aux besoins, envies, sensibilités, préoccupations de chacun.  Participez avec nous à une vie de village joyeuse et solidaire.</p>
+    </div>
+
+    <div class="logo-wrapper">
+      <img src="/img/logo_decoup-01.svg" alt="Dragon" class="dragon" loading="eager">
+      <img src="/img/logo_decoup-02.svg" alt="Texte du logo" class="logo-text" loading="eager">
+    </div>
   </div>
-  <div class="column">
-    <div class="spacer-50" aria-hidden="true"></div>
-    <p><img src="/img/logo2.svg" loading="eager" alt="Logo"></p>
-  </div>
-</div>
+</section>
 
 <style>
-  .spacer-50 {
-    height: 50px;
-  }
-  @media (max-width: 1000px) {
-    .spacer-50 {
-      height: calc(50px / 2);
-    }
-  }
-</style>
+ 
 
+  
+.intro-section {
+  padding: 5rem 1rem 2rem 1rem;
+  min-width: 100%;
+}
+
+.intro-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+ 
+.intro-text {
+  flex: 1 1 45%;
+}
+
+.intro-text h1 {
+  font-size: 4.5rem;
+  margin-bottom: 1rem;
+   transition: transform 0.4s ease;
+}
+
+.intro-text h1:hover {
+  transform: translateY(-4px);
+ 
+}
+
+.intro-text p {
+  font-size: 1.45rem;
+  line-height: 1.5;
+  color: #222;
+}
+
+ 
+.logo-wrapper {
+  flex: 1 1 40%;
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.logo-wrapper img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: transform 0.4s ease;
+}
+
+ 
+.logo-text {
+  z-index: 2;
+}
+
+.dragon {
+  z-index: 1;
+}
+
+ 
+.logo-wrapper:hover .dragon {
+  transform: translateY(-15px);
+}
+
+ 
+.logo-wrapper {
+  aspect-ratio: 1 / 1;
+}
+
+ 
+@media (max-width: 768px) {
+  .intro-container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .intro-text, .logo-wrapper {
+    flex: 1 1 100%;
+  }
+
+  .intro-text h1 {
+    font-size: 2rem;
+  }
+}
+</style>
   <div class="spacer-20" aria-hidden="true"></div>
     <h2>À la Une</h2>
 <div class="a-la-une-list">
