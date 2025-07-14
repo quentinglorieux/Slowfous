@@ -12,3 +12,16 @@
   margin: 0 0 1rem 1rem;   /* space on left and below */
   box-sizing: border-box;  /* include padding/border */
 }
+
+.actu_img{
+  max-height: 250px;
+}
+
+.img_blog{
+  max-height: 250px;
+  width: auto;
+}
+
+.blog-item{
+  margin-bottom: 10rem;  
+}
