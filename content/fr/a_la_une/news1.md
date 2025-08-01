@@ -1,5 +1,5 @@
 ---
-title: News 1
+title: Où en est-on sur la piste cyclable ?
 description: Lorem ipsum dolor sit amet elementum venenatis sapien mollis risus aenean vivamus donec.
 date: 2024-11-23T11:11:00
 image: /img/placeholder.svg
