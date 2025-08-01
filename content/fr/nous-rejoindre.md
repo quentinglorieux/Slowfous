@@ -6,7 +6,7 @@ images:
 ---
 ### Adhésion
 
-L'adhèsion à l’association les Slow fous de Larchant est annuelle et, pour l'année 2025, d'un montant  de 10€ (adhésion individuelle) ou 15€ (adhésion familiale).
+L'adhésion à l’association les Slow fous de Larchant est annuelle et, pour l'année 2025, d'un montant  de 10€ (adhésion individuelle) ou 15€ (adhésion familiale).
 
 ### Bulletin d'adhésion et RIB de l'association
 
