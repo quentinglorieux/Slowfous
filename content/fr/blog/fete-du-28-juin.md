@@ -1,5 +1,5 @@
 ---
-title: Larchant sous les tilleuls
+title: Larchant sous les tilleuls avec des salades fraiches
 description: Jeux, théâtre, danse et grand repas partagé avec toutes les associations lyricantoises. Une grand première et une belle réussite.
 date: 2025-06-28T22:45:00
 image: /img/tilleuls.jpg
