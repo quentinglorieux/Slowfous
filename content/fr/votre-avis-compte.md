@@ -1,6 +1,6 @@
 ---
 title: Votre avis compte
-description: N'hésitez pas à nous faire part de vos remarques et suggestions
+description: N'hésitez pas à nous faire part de vos remarques et suggestions.
 images:
   - https://via.placeholder.com/250x200/d9d9d9/000000
 ---
