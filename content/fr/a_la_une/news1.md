@@ -3,6 +3,6 @@ title: Où en est-on du projet piste cyclable ?
 description: Le groupe LVLN (Liaison Vélo Larchant Nemours) et les Slow fous de Larchant ne ménagent pas leurs efforts...Ca avance !
 date: 2025-08-01T11:11:00
 image: /public/img/58a6b96a-0804-4d76-8aba-214047d2a244.JPEG
-author: AMBL
+author: AMCBL
 ---
-Depuis la dernière réunion publique le 24 septembre 2024 .
+Depuis la première réunion publique le 24 septembre 2024, beaucoup de choses se sont passées. Une réunion avec le département où nous avons défendu fermement notre projet. Le sérieux de nos arguments fut apprécié, succès d'estime, mais rien n'avançait véritablement. Puis participation à l'enquête publique régionale sur les mobilités douces, puis signature par plus de 400 personnes d'une pétition que nous avons déposée auprès des enquêteurs de la Région, puis balade avec plus de 60 lyricantois décidés à se faire entendre ont débouché sur la décision de la Communauté de Communes d'organiser une réunion dédiée à notre fameuse piste. Ce fut le 5 juillet. Nous ,n'y étions pas invités (dommage), mais 5 élus de Larchant étaient présents dont le maire, Vincent Mével. Nous leur avons donné notre dossier pour qu'ils le distribuent à tous les participants et avons attendu, confiants mais sur le qui vive. Les échos semblent positifs mais nous n'avons pas encore obtenu le compte rendu officiel de la réunion malgré de multiples demandes... Ne rien lâcher donc ! C'est pourquoi nous organisons une nouvelle réunion publique le samedi 27 septembre à 17h à la salle de la Sablonnière en présence de Vincent Mével. On vous y attend nombreux. N'oubliez pas que le nombre est un élément décisif pour pousser les décisions !
