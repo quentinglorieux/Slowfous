@@ -1,5 +1,5 @@
 ---
-title: Lien vers les autres associations lyricantoises ou proches de Larchant
+title: Que proposent les autres associations lyricantoises ou proches de Larchant ?
 description: L'activité associative est intense à Larchant !
 images:
   - https://placehold.co/250x200
