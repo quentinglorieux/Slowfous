@@ -1,11 +1,12 @@
 ---
-title: Tous nos documents
 description: Tout savoir sur les SlowFous de Larchant
+title: Tous nos documents
 ---
 ## 2025 
 
-- [Adhésion](adhesion2025.pdf)
-- [Compte rendu de l'AG](AG2025.pdf)
+- Bulletin d'a[dhésion](adhesion2025.pdf)
+- [Compte rendu de l'A](AG2025.pdf)ssemblée générale
+- Résumé des réunions des Conseils d'Administration
 
 ## Autres ressources
 
