@@ -1,6 +1,6 @@
 ---
-title: Benjamin Coriat Les biens communs
-description: XXXXXXXXXXXXXXXX
+title: Benjamin Coriat et les biens communs
+description: Le vendredi 3 octobre 2025 à 19h30 à la salle Chatenoy
 image: /public/img/téléchargement-2.jpeg
 buttonText: Ca vous dit ?
 buttonLink: /compost
