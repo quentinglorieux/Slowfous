@@ -1,5 +1,5 @@
 ---
-title: "Le Diagnostic de Performance Energétique (DPE) : pratiquement, que faire pour l'éaméliorer ?"
+title: "Le Diagnostic de Performance Energétique (DPE) : pratiquement, que faire pour l'améliorer ?"
 description: Le samedi 11 octobre à 17h à la salle de la Sablonnière
 image: /public/img/téléchargement.png
 buttonText: Tout savoir
