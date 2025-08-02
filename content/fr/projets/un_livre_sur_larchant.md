@@ -1,10 +1,10 @@
 ---
-title: Livre sur Larchant
-description: En cours d'écriture
-image: https://images.unsplash.com/photo-1457369804613-52c61a468e7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDgxOTJ8MHwxfHNlYXJjaHwxfHxib29rfGZyfDB8fHx8MTc1MjUyODU5Nnww&ixlib=rb-4.1.0&q=80&w=1080
+title: Mangeuses de et avec Lauren Malka
+description: Le samedi 24 novembre à 19h à La Grange, histoire de celles qui dévorent, savourent ou se privent à l'excès
+image: /public/img/Mangeuses.jpg
 buttonText: Y participer ?
-buttonLink: /un_livre_sur_larchant
+buttonLink: ''
 order: 50
-resume: ''
+resume: Vous voulez savoir pourquoi les femmes ont-elles un rapport particulier à la nourriture ? Lauren Malka va vous le raconter
 ---
 Un livre racontant l’arrivée des lyricantois à Larchant : toutes les histoires de première rencontre avec Larchant sont particulières.
